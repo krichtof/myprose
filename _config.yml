@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 prose:
-  siteurl: "https://tempslibre.robillard.pro/myprose/"
+  siteurl: "https://tempslibre.robillard.pro"
   media: 'media'
   metadata:
     _posts:
