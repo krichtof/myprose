@@ -6,8 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About me
 
-Here i am : ![krichtof.png]({{site.baseurl}}/krichtof.png)
+Here i am : ![joshua-earle-560344-unsplash.jpg]({{site.baseurl}}/media/joshua-earle-560344-unsplash.jpg)
 
+
+# Et ouais gro
 
 ### Markdown
 
