@@ -1,3 +1,18 @@
 theme: jekyll-theme-cayman
 prose:
+  siteurl: "https://tempslibre.robillard.pro/myprose"
   media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "select"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Food Story"
+              value: "galerie"
+            - name: "Aktuelles"
+              value: "news"
+            - name: "Presse"
+              value: "presse"
